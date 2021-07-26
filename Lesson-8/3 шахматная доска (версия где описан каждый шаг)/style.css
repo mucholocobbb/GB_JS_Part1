@@ -1,0 +1,60 @@
+html {
+    background: rgb(167, 167, 167);
+}
+
+.container {
+    max-width: 1170px;
+    margin: 100px auto;
+}
+
+table {
+    border-collapse: collapse;
+    background: rgb(105, 188, 255);
+}
+
+td {
+    width: 30px;
+    height: 30px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+.boardText {
+    text-align: center;
+    font-size: 6px;
+    color: darkcyan;
+}
+
+.tdBl {
+    background-color: black;
+
+}
+
+.tdW {
+    background-color: white;
+
+}
+
+p {
+    margin: 0;
+    text-align: center;
+}
+
+.pW {
+    color: white;
+}
+
+.pB {
+    color: black;
+}
+
+.squareY {
+    background-color: burlywood;
+    width: 15px;
+}
+
+.squareX {
+    background-color: burlywood;
+    height: 15px;
+}
